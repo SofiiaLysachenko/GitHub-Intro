@@ -17,8 +17,8 @@ Hi! My name is Sofia. This is my first GitHub repo. Here I practice my skills at
 ## Online VS Offline studying 
 | Online | Offline |
 |---|---|
-| You can sleep more; no need to commute| You can hang out with your pals|
-|
+| You can sleep more; No need to go to university | You can hang out with your pals|
+
 
 ## My favourite math formulas
 

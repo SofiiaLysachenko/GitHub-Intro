@@ -1,5 +1,5 @@
 # GitHub-Intro
-[Author](#author) | [Discription](#description) | [My favorite university subject](#my-favorite-university-subjects) | [Online Vs Offline studying](#online-vs-offline-studying) | [My favorite math formulas](#my-favourite-math-formulas) | [My coding skills](#my-coding-skills) | [This image I like](#this-image-i-like) |
+[Author](#author) | [Description](#description) | [My favorite university subject](#my-favorite-university-subjects) | [Online Vs Offline studying](#online-vs-offline-studying) | [My favorite math formulas](#my-favourite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)|
 
 ## Author
 * **Name:** *Sofiia Lysachenko*
@@ -38,7 +38,7 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 ```
 
 ## My coding skills
-```
+```c++
 #include <iostream>
 using namespace std;
 
@@ -50,7 +50,7 @@ int main(){
 
 [Use this web-compiler to check the code out.](https://cpp.sh/?source=%23include+%3Ciostream%3E%0Ausing+namespace+std%3B%0A%0Aint+main()%7B%0A++++cout+%3C%3C+%22Hello%2C+world!%22%3B%0A%7D)
 
-## This image I like
+## The image I like
 
 ![](images/фото.jpg)
 

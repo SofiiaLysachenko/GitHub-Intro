@@ -43,12 +43,12 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 using namespace std;
 
 int main(){
-    cout << "Hello, world!";
+    cout << "Hello, GitHub!";
 }
 ```
 
 
-[Use this web-compiler to check the code out.](https://cpp.sh/?source=%23include+%3Ciostream%3E%0Ausing+namespace+std%3B%0A%0Aint+main()%7B%0A++++cout+%3C%3C+%22Hello%2C+world!%22%3B%0A%7D)
+Use this [web-compiler](https://cpp.sh/?source=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main()%7B%0D%0A++++cout+%3C%3C+%22Hello%2C+GitHub!%22%3B%0D%0A%7D)to check the code out.
 
 ## The image I like
 
